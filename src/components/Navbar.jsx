@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-black text-gray-400 h-[100px] max-w-[1200px] mx-auto flex justify-between items-center">
-      <h1 className="text-3xl font-bold primary-color ml-4">Mahmoud</h1>
+      <h1 className="text-3xl font-bold primary-color ml-4">Eng.Mahmoud</h1>
       <ul className="hidden md:flex mr-4">
         <li className="text-xl ml-4">
           <a href="#work">Work</a>
@@ -35,7 +35,7 @@ const Navbar = () => {
         }
       >
         <h1 className="text-3xl font-bold primary-color ml-4 mr-4 mt-4 ">
-          Mahmoud
+          Eng.Mahmoud
         </h1>
         <ul className="p-4 text-2xl ml-4">
           <li className="p-2">

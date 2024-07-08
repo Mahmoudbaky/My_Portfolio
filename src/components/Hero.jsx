@@ -26,7 +26,7 @@ const Hero = () => {
             sequence={[
               "Developer",
               1000,
-              "Front End",
+              "Front End dev",
               1000,
               "Embedded SW",
               1000,
@@ -43,7 +43,7 @@ const Hero = () => {
         </p>
         <div className="my-8">
           <a
-            href="#"
+            href="https://htiedu-my.sharepoint.com/:b:/g/personal/20190689_hti_edu_eg/EfIyuPQovyRCisd1aJdUKlIBlz9taXN97z8KiKLoAmBiYg?e=hnplE8"
             className="px-6 py-3 w-full rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
             Download cv
